@@ -4,3 +4,4 @@ Hallo GitHub. Pull me!
 Ein weiterer Text
 und noch mehr
 Änderung auf dem Server
+Änderung lokal
